@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://lila-js.github.io"
 baseurl: "/serene"
-siteIcon: /media/android-chrome-192x192.png
+siteIcon: /media/serene192x192.png
 siteYear: 2020
 siteFooterlink: /about
 showinSearchEngines: true
@@ -18,7 +18,7 @@ useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/serene.lol
+discordInvite: https://discord.gg/serenemc
 discordServerID: 1280888348692713494
 discordChannelID: 1280890327691165717
 

@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://lila-js.github.io"
+baseurl: "/serene"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: /about
@@ -11,16 +11,16 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Serene
+serverDescription: An anarchy minecraft server, meant for all your mischevious needs.
+serverIP: anarchy.serene.lol
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/serene.lol
+discordServerID: 1280888348692713494
+discordChannelID: 1280890327691165717
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)

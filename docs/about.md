@@ -5,15 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
-
+Serene is an anarchy minecraft server created by actual minecraft anarchy players.
 
 # Privacy Policy
 
